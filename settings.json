@@ -1,9 +1,9 @@
 {
   "title": "Wiki",
-  "url": "",
+  "url": "/",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/logo.svg",
+    "dark": "/logo.svg"
   },
   "github": "alfasatkz/wiki",
   "twitter": "azat_tech"
